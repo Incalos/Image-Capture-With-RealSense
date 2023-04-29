@@ -5,7 +5,7 @@ import os
 def parse_opt():
     parser = argparse.ArgumentParser()
     parser.add_argument("--path", type=str, default='2023_03_28_20_14_31', help="images save path")
-    parser.add_argument("--firstnum", type=int, default=1, help="0(auto) or 1(manual)")
+    parser.add_argument("--firstnum", type=int, default=1, help="the number of the first file")
     parser.add_argument("--image_format", type=int, default=0, help="option: 0->jpg 1->png")
     parser.add_argument("--annotations", type=bool, default=False, help="frame rate of shooting")
     opt = parser.parse_args()
