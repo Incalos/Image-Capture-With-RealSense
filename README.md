@@ -22,7 +22,7 @@ To batch modify the file name of the collected data, you can use **Rename.py**.
 
 * If the **mode** is set to 0, it is in automatic saving mode. To start, please use the English input method to click the **_S_** key of the keyboard, and to pause halfway, click the **_W_** key of the keyboard.
 
-* If the **mode** is set to 1, it is in manual save mode. If there are any images displayed that you want to save, please click on the keyboard using the English input method **_ S_** Key to save.
+* If the **mode** is set to 1, it is in manual save mode. If there are any images displayed that you want to save, please click on the keyboard using the English input method **_S_** Key to save.
 
 * If you want to end the program, hit the **_Q_** on your keyboard with the English input method.
 
